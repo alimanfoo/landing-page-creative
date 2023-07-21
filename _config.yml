@@ -1,12 +1,13 @@
 # Site settings
 title: Malaria vector genome observatory
-email:
-description: > Explore and analyse genomic data from whole-genome sewuencing of malatia mosquitoes. # this means to ignore newlines until "baseurl:"
+email: data@malariagen.net
+description: > 
+  Explore and analyse genomic data from sewuencing of malatia mosquitoes.
 baseurl: "/landing-page-creative/" # the subpath of your site, e.g. /blog/
 url: "https://alimanfoo.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: malariagenomics
+github_username: malariagen
 
 # Build settings
 markdown: kramdown
